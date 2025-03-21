@@ -1,11 +1,11 @@
-# Treble Manifest
+# Testing Manifest for GSI
 Manifest for treble gsi's.
 
 #  How to use this file ?
 
 clone this repo in rom source.  
     
-    git clone https://github.com/MisterZtr/treble_manifest.git .repo/local_manifests  -b 14
+    git clone https://github.com/That0loner/treble_manifest.git .repo/local_manifests  -b 14
   
 
 ------------------------------------------------------
