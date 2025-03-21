@@ -1,4 +1,6 @@
 # Testing Manifest for GSI
+
+# I DONT TAKE CREDIT FOR ANY OF THIS AS THIS IS MISTERZTR's WORK AND IM JUST TESTING SO GO TO MISTER ZTR's GITHUB
 Manifest for treble gsi's.
 
 #  How to use this file ?
